@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+# 
+config.py
+PROJECT ONE.docx
+~$OJECT ONE.docx
 # C extensions
 *.so
 
