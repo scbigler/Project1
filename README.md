@@ -24,3 +24,12 @@ DATA COLLECTION AND CLEAN UP- Tin Phat
 DATA ANALYSIS-Michael Mclendon + Sonny Bigler
 DATA VISUALS- Jennifer Matsuda
 PRESENTATION -Georgina Ortiz
+
+## Analysis
+
+Clearly the there has been an increase in overall homeless population in San Francisco in the last 10 years. In 2020 the data was incomplete due to what we assume were restrictions in person to person interations due to the pandemic. The only population accounted for was the sheletered homeless population.
+
+During the years were there was an increase in operational shelters, there was no postive impact to the unshelter homeless population, but there was a increase in sheltered homeless population. Meaning the shelter is not solving the issue of homelessnes in general, but keeping a few more individuals off the street as the overall homeless population increase. 
+
+
+
