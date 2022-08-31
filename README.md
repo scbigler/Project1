@@ -6,13 +6,13 @@ HOMELESSNESS POPULATION AND SHELTERS IN SF, CA
 Sonny Bigler, Michael Mclendon, Georgina Ortiz, Tin Phat Du, Jennifer Matsuda
 
 ## Project Description / Outline: 
-Homelessness has been a growing issue in California. Although the solutions are not clear, we are interested in seeing any trends in growth in operational shelters and it's affect in any on the overall homeless population in the city of San Francisco. The team will be looking at the homeless population in the last 10 years as well as the number of shelters operational in those years.
+Homelessness has been a growing issue in California. Although the solutions are not clear, we are interested in seeing any trends in growth in operational shelters and whether it affects the overall homeless population in the city of San Francisco. The team will look at the homeless population in the last ten years and the number of shelters operational in those years.
 
 ## Questions
 What is the growth in the overall homeless population in the city of San Francisco?
-What is the difference in population between Sheltered and Unsheltered 
-Map out the shelters located in the city of San Francisco
-Has their been a positive impact with growth in shelters?
+What is the difference in population between Sheltered and Unsheltered? 
+Map out the shelters located in the city of San Francisco.
+Has there been a positive impact on overall homelessness with the growth in the number of shelters?
 
 
 ## Datasets to be used: 
@@ -27,9 +27,9 @@ PRESENTATION -Georgina Ortiz
 
 ## Analysis
 
-Clearly the there has been an increase in overall homeless population in San Francisco in the last 10 years. In 2020 the data was incomplete due to what we assume were restrictions in person to person interations due to the pandemic. The only population accounted for was the sheletered homeless population.
+There has been an increase in the overall homeless population in San Francisco in the last ten years. In 2020 the data was incomplete due to what we assume were restrictions in person-to-person interactions due to the pandemic. The only population accounted for was the sheltered homeless population.
 
-During the years were there was an increase in operational shelters, there was no postive impact to the unshelter homeless population, but there was a increase in sheltered homeless population. Meaning the shelter is not solving the issue of homelessnes in general, but keeping a few more individuals off the street as the overall homeless population increase. 
+When there was an increase in operational shelters, there was no positive impact on the unsheltered homeless population, but there was an increase in the sheltered homeless population. Therefore, the shelters are not solving the issue of homelessness in general but keeping a few more individuals off the street as the overall homeless population increases. 
 
 
 
